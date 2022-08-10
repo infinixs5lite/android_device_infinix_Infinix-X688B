@@ -10,3 +10,5 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
     twrp_X688B-eng
+    twrp_X688B-user \
+    twrp_X688B-userdebug \
