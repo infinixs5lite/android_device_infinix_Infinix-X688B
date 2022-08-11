@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/X688B.mk,twrp_X688B.mk
+    $(LOCAL_DIR)/rp_X688B.mk
 
 
 COMMON_LUNCH_CHOICES := \
